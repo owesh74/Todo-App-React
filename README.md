@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 # React To-Do List App ✅
-=======
-Project Link : https://todo-app-owesh.netlify.app/
-
-# React + Vite
->>>>>>> 150f70107ef71e0437df3c13b6ebe5e08c6bdb93
 
 A clean, simple, and persistent to-do list application built with React and styled with Tailwind CSS. This app allows you to manage your daily tasks with ease, and your data is automatically saved to your browser's local storage.
 
@@ -79,13 +73,4 @@ You need to have **Node.js** and **npm** (or yarn) installed on your computer.
 - **Real-time Updates**: Instant visual feedback for all actions
 - **Clean UI**: Dark theme with yellow accents for better user experience
 - **Mobile Responsive**: Works seamlessly across devices
-
-## 🌐 Deployment
-
-This project can be easily deployed to various platforms:
-
-- **Netlify**: `npm run build` → drag build folder to Netlify
-- **Vercel**: Connect GitHub repo → automatic deployment
-- **GitHub Pages**: Use `gh-pages` package for deployment
-
-Replace `https://your-app-name.netlify.app` with your actual live URL.
+ 

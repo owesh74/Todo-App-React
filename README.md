@@ -43,7 +43,7 @@ You need to have **Node.js** and **npm** (or yarn) installed on your computer.
 
 2. **Navigate into the project directory**:
    ```bash
-   cd your-repo-name
+   cd Todo-App-React
    ```
 
 3. **Install the required npm packages**:
